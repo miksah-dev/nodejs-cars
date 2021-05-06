@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-cars",
+  "version": "0.1.0",
+  "description": "nodejs example with Express, Sequelize and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miksah-dev/nodejs-cars.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "miksah-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miksah-dev/nodejs-cars/issues"
+  },
+  "homepage": "https://github.com/miksah-dev/nodejs-cars#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
